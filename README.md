@@ -11,3 +11,5 @@ This is clone of Magento 2 Open Source for integration with [Payment Request API
 **Release strategy:** Payment Request API is developed in `payment-request-api` branch. All code contributed to `Magento_PaymentRequestApi` will be released after integration complete. Release strategy would be defined later (possible option is merge to the Magento core or release as independent module). All contribution outside from `Magento_PaymentRequestApi` will be delivered to current Magento 2 Open Source development branch (`2.3-develop` now). 
 
 **Documentation:** All documentation artifacts to this project should be added as [wiki pages at GitHub](https://github.com/magento/payment-improvements/wiki)
+
+**Join to the working group:** Any developer may join to the working group. To get write permissions on this repository please contact Magento Community Engineering Team representative Volodymyr Kublytskyi by email vkublytskyi@magento.com or by private message in Magento Community Engineering Slack.
