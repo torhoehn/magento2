@@ -13,7 +13,7 @@
                     <argument name="jsLayout" xsi:type="array">
                         <item name="components" xsi:type="array">
                             <item name="buy-now" xsi:type="array">
-                                <item name="component" xsi:type="string">Magento_PaymentRequestApi/js/view/buy_now</item>
+                                <item name="component" xsi:type="string">Magento_PaymentRequestApi/js/view/buy-now</item>
                                 <item name="config" xsi:type="array">
                                     <item name="template" xsi:type="string">Magento_PaymentRequestApi/buy-now</item>
                                 </item>
@@ -29,7 +29,7 @@
                     <argument name="jsLayout" xsi:type="array">
                         <item name="components" xsi:type="array">
                             <item name="buy-now" xsi:type="array">
-                                <item name="component" xsi:type="string">Magento_PaymentRequestApi/js/view/buy_now</item>
+                                <item name="component" xsi:type="string">Magento_PaymentRequestApi/js/view/buy-now</item>
                                 <item name="config" xsi:type="array">
                                     <item name="template" xsi:type="string">Magento_PaymentRequestApi/buy-now</item>
                                 </item>
